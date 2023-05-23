@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "name": "Sundarbans",
+        "price": 150,
+        "img": "https://images.pexels.com/photos/14354486/pexels-photo-14354486.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Explore the world's largest mangrove forest and spot Bengal tigers, crocodiles, and unique wildlife."
+    },
+    {
+        "id": 2,
+        "name": "Cox's Bazar",
+        "price": 100,
+        "img": "https://images.pexels.com/photos/1045113/pexels-photo-1045113.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Enjoy the longest natural sandy beach in the world with vibrant sunsets and thrilling water sports."
+    },
+    {
+        "id": 3,
+        "name": "Saint Martin's Island",
+        "price": 80,
+        "img": "https://images.pexels.com/photos/1049298/pexels-photo-1049298.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Visit the only coral island in Bangladesh, renowned for its crystal-clear turquoise waters and colorful marine life."
+    },
+    {
+        "id": 4,
+        "name": "Rangamati",
+        "price": 120,
+        "img": "https://images.pexels.com/photos/376357/pexels-photo-376357.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Discover the scenic beauty of the Chittagong Hill Tracts, lush green hills, and picturesque Kaptai Lake."
+    },
+    {
+        "id": 5,
+        "name": "Sylhet",
+        "price": 90,
+        "img": "https://images.pexels.com/photos/392100/pexels-photo-392100.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Experience the tea gardens, beautiful waterfalls, and explore the vibrant culture of Sylhet."
+    },
+    {
+        "id": 6,
+        "name": "Kuakata",
+        "price": 70,
+        "img": "https://images.pexels.com/photos/3601425/pexels-photo-3601425.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Witness breathtaking sunrises and sunsets over the Bay of Bengal from the pristine beach of Kuakata."
+    },
+    {
+        "id": 7,
+        "name": "Bandarban",
+        "price": 110,
+        "img": "https://images.pexels.com/photos/1083515/pexels-photo-1083515.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Explore the hill town of Bandarban, home to diverse tribal communities, waterfalls, and adventurous trekking trails."
+    },
+    {
+        "id": 8,
+        "name": "Shat Gombuj Mosque",
+        "price": 40,
+        "img": "https://images.pexels.com/photos/2028187/pexels-photo-2028187.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "description": "Visit the Sixty Dome Mosque in Bagerhat, a UNESCO World Heritage Site and an architectural marvel of the medieval period."
+    }
+]
